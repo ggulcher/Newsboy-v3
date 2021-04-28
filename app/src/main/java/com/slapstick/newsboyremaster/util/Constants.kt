@@ -3,7 +3,7 @@ package com.slapstick.newsboyremaster.util
 class Constants {
     companion object {
 
-        const val API_KEY = "00341f7ad21744a488ab6d2dcff0ae2d"
+        const val API_KEY = "Insert API Key Here"
         const val BASE_URL = "https://newsapi.org/"
         const val PAGE_REQUEST = 20
         const val MAX_REQUEST = 100
