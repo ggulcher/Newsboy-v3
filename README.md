@@ -3,4 +3,4 @@ A personal news organizer app built using Retrofit, Glide, Room, and dependency 
 (Built as an educational project with the help of external material)
 
 ## Media 
-<img src="https://i.imgur.com/ccvgvPB.png" width="210"> <gif src="https://imgur.com/a/B5nCc3l" width="210"> 
+<img src="https://i.imgur.com/ccvgvPB.png" width="210"> <img src="https://imgur.com/PLsvsZV" width="210"> 
