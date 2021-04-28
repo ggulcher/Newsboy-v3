@@ -3,4 +3,4 @@ A personal news organizer app built using Retrofit, Glide, Room, and dependency 
 (Built as an educational project with the help of external material)
 
 ## Media 
-<img src="https://i.imgur.com/ccvgvPB.png" width="210"> <blockquote class="imgur-embed-pub" lang="en" data-id="Vf9kzut"><a href="https://imgur.com/Vf9kzut">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/ccvgvPB.png" width="210"> ![me](https://github.com/ggulcher/Newsboy---API-driven-news-aggregator/blob/main/preview/untitled.gif)
